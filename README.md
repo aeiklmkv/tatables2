@@ -5,6 +5,7 @@ Colons can be used to align columns.
 | Tables        | Are           | Cool  |sdsd|
 | ------------- |:-------------:| -----:|---:|
 | col 3 is      | right-aligned | $1600 |1|
+|      | ghjhj |  ||
 | col 2 is      | centered      |   $12 |2|
 | zebra stripes | are neat      |    $1 |3|
 
